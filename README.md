@@ -1,3 +1,2 @@
-# Movie-out-of-pictures
-I am trying to make a video out of pictures (not frames) with this capability to assign specific time period to each picture . 
-Any help is appreciated. Thanks.   
+In this repository I am uploading all the examples of my Youtube channel (YB TV). 
+https://www.youtube.com/channel/UCvnhhDKv5takEN412dmVW8g
