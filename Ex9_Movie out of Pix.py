@@ -1,3 +1,8 @@
+# See full Toturial at my Youtube Channel(YB TV): https://www.youtube.com/channel/UCvnhhDKv5takEN412dmVW8g/featured
+# GitHab Page:https://github.com/yasser64b/
+#Email: big3del@gmail.com
+
+
 import cv2  # pip install opencv-python 
 import os 
 from os.path import isfile, join 
